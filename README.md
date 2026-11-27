@@ -1,6 +1,6 @@
 # utkarsh-lakebed
 
-The root URL at [utkarsh.lakebed.app](https://utkarsh.lakebed.app/) redirects to [utkarsh.quest](https://utkarsh.quest/).
+Browser visits to [utkarsh.lakebed.app](https://utkarsh.lakebed.app/), including deep links, redirect to the [utkarsh.quest homepage](https://utkarsh.quest/). Lakebed handles its reserved platform routes directly.
 
 Run `npx lakebed dev` and open the local URL in a browser to test the redirect.
 
